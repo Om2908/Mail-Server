@@ -1,4 +1,6 @@
-This project is a simple mail server implemented to handle sending and receiving emails. The server is built to be efficient, scalable, and easy to deploy. It offers essential features required to operate a functional mail server.
+This project is a simple mail server implemented to handle sending and receiving emails. 
+The server is built to be efficient, scalable, and easy to deploy. 
+It offers essential features required to operate a functional mail server.
 
 Features:
 SMTP Support: Handles outgoing mail with Simple Mail Transfer Protocol (SMTP).
