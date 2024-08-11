@@ -1,3 +1,5 @@
+Mail-Server
+
 This project is a simple mail server implemented to handle sending and receiving emails. 
 The server is built to be efficient, scalable, and easy to deploy. 
 It offers essential features required to operate a functional mail server.
